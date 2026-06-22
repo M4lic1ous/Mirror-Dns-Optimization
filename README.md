@@ -4,6 +4,8 @@
 توضیحات: 
 این پروژه یک اسکریپت Bash هست که به‌ صورت خودکار بهترین Mirror و سریع‌ ترین DNS رو شناسایی و روی سیستم اعمال میکنه تا سرعت آپدیت بسته‌ ها و کیفیت اتصال شبکه بهبود پیدا کنه، 
 
+![Mirror DNS Optimization](https://raw.githubusercontent.com/M4lic1ous/Mirror-Dns-Optimization/refs/heads/main/IMG_20260622_183152_995.jpg)
+
 ## ✨ قابلیت‌ها
 
 * ✅ تشخیص خودکار نسخه و نام (Codename) سیستم‌عامل.
